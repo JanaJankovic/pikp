@@ -1,0 +1,549 @@
+entity,code,region,id
+Afghanistan,,,1
+Africa,,,2
+Africa (FAO),,,3
+Africa Eastern and Southern,,,4
+Africa Western and Central,,,5
+Albania,,,6
+Algeria,,,7
+American Samoa,,,8
+Americas,,,9
+Americas (FAO),,,10
+Andorra,,,11
+Angola,,,12
+Anguilla,,,13
+Antarctic Region,,,14
+Antarctica,,,15
+Antigua and Barbuda,,,16
+Arab World,,,17
+Argentina,,,18
+Armenia,,,19
+Aruba,,,20
+Asia,,,21
+Asia (FAO),,,22
+Australia,,,23
+Australia and New Zealand,,,24
+Austria,AT,AT1000,25
+Austria,AT,AT2000,26
+Austria,,,27
+Azerbaijan,,,28
+Bahamas,,,29
+Bahrain,,,30
+Bangladesh,,,31
+Barbados,,,32
+Belarus,,,33
+Belgium,BE,BE_Rhin_RW,34
+Belgium,BE,BE_Escaut_RW,35
+Belgium,BE,BESchelde_VL,36
+Belgium,BE,BEMaas_VL,37
+Belgium,BE,BE_Meuse_RW,38
+Belgium,BE,BE_Escaut_BR,39
+Belgium,BE,BE_Seine_RW,40
+Belgium,,,41
+Belgium-Luxembourg,,,42
+Belgium-Luxembourg (FAO),,,43
+Belize,,,44
+Benin,,,45
+Bermuda,,,46
+Bhutan,,,47
+Bolivia,,,48
+Bolivia (Plurinational State of),,,49
+Bosnia and Herzegovina,,,50
+Botswana,,,51
+Brazil,,,52
+British Virgin Islands,,,53
+Brunei,,,54
+Brunei Darussalam,,,55
+Bulgaria,BG,BG1000,56
+Bulgaria,BG,BG2000,57
+Bulgaria,BG,BG3000,58
+Bulgaria,BG,BG4000,59
+Bulgaria,,,60
+Burkina Faso,,,61
+Burundi,,,62
+Cabo Verde,,,63
+Cambodia,,,64
+Cameroon,,,65
+Canada,,,66
+Cape Verde,,,67
+Caribbean,,,68
+Caribbean (FAO),,,69
+Caribbean small states,,,70
+Cayman Islands,,,71
+Central African Republic,,,72
+Central America,,,73
+Central America (FAO),,,74
+Central Asia,,,75
+Central Asia (FAO),,,76
+Central Europe and the Baltics,,,77
+Chad,,,78
+Channel Islands,,,79
+Chile,,,80
+China,,,81
+China (FAO),,,82
+"China, Hong Kong SAR",,,83
+"China, Macao SAR",,,84
+"China, mainland",,,85
+"China, Taiwan Province of",,,86
+Christmas Island,,,87
+Cocos (Keeling) Islands,,,88
+Colombia,,,89
+Comoros,,,90
+Congo,,,91
+Cook Islands,,,92
+Costa Rica,,,93
+Cote d'Ivoire,,,94
+Croatia,,,95
+Cuba,,,96
+Curacao,,,97
+Cyprus,CY,CY001,98
+Cyprus,,,99
+Czech Republic,CZ,CZ_1000,100
+Czech Republic,CZ,CZ_5000,101
+Czech Republic,CZ,CZ_6000,102
+Czechia,,,103
+Czechoslovakia,,,104
+Democratic People's Republic of Korea,,,105
+Democratic Republic of Congo,,,106
+Democratic Republic of the Congo,,,107
+Denmark,DK,DK3,108
+Denmark,DK,DK1,109
+Denmark,DK,DK2,110
+Denmark,DK,DK4,111
+Denmark,,,112
+Djibouti,,,113
+Dominica,,,114
+Dominican Republic,,,115
+Early-demographic dividend,,,116
+East Asia & Pacific,,,117
+East Asia & Pacific (excluding high income),,,118
+East Asia & Pacific (IDA & IBRD countries),,,119
+Eastern Africa,,,120
+Eastern Africa (FAO),,,121
+Eastern Asia,,,122
+Eastern Asia (FAO),,,123
+Eastern Europe,,,124
+Eastern Europe (FAO),,,125
+Ecuador,,,126
+Egypt,,,127
+El Salvador,,,128
+Equatorial Guinea,,,129
+Eritrea,,,130
+Eritrea and Ethiopia,,,131
+Estonia,EE,EE2,132
+Estonia,EE,EE1,133
+Estonia,,,134
+Eswatini,,,135
+Ethiopia,,,136
+Ethiopia PDR,,,137
+Euro area,,,138
+Euro area - 19 countries  (2015-2022),,,139
+Europe,,,140
+Europe & Central Asia,,,141
+Europe & Central Asia (excluding high income),,,142
+Europe & Central Asia (IDA & IBRD countries),,,143
+Europe (FAO),,,144
+European Union,,,145
+European Union (27),,,146
+European Union (27) (FAO),,,147
+European Union (28) (FAO),,,148
+European Union - 27 countries (from 2020),,,149
+European Union - 28 countries (2013-2020),,,150
+Falkland Islands,,,151
+Falkland Islands (Malvinas),,,152
+Faroe Islands,,,153
+Fiji,,,154
+Finland,FI,FIVHA3,155
+Finland,FI,FIVHA2,156
+Finland,FI,FIVHA1,157
+Finland,FI,FIVHA4,158
+Finland,FI,FIVHA5,159
+Finland,FI,FIVHA6,160
+Finland,FI,FIVHA7,161
+Finland,,,162
+Fragile and conflict affected situations,,,163
+France,FR,FRA,164
+France,FR,FRH,165
+France,FR,FRG,166
+France,FR,FRB2,167
+France,FR,FRB1,168
+France,FR,FRF,169
+France,FR,FRC,170
+France,FR,FRD,171
+France,FR,FRE,172
+France,,,173
+French Guyana,,,174
+French Polynesia,,,175
+French Southern Territories,,,176
+Gabon,,,177
+Gambia,,,178
+Georgia,,,179
+Germany,DE,DE7000,180
+Germany,DE,DE2000,181
+Germany,DE,DE4000,182
+Germany,DE,DE9610,183
+Germany,DE,DE3000,184
+Germany,DE,DE5000,185
+Germany,DE,DE1000,186
+Germany,DE,DE9500,187
+Germany,DE,DE6000,188
+Germany,DE,DE9650,189
+Germany,,,190
+Germany (until 1990 former territory of the FRG),,,191
+Ghana,,,192
+Gibraltar,,,193
+Greece,,,194
+Greenland,,,195
+Grenada,,,196
+Guadeloupe,,,197
+Guam,,,198
+Guatemala,,,199
+Guinea,,,200
+Guinea-Bissau,,,201
+Guyana,,,202
+Haiti,,,203
+Heavily indebted poor countries (HIPC),,,204
+High income,,,205
+Holy See,,,206
+Honduras,,,207
+Hong Kong SAR,,,208
+Hungary,HU,HU1000,209
+Hungary,,,210
+IBRD only,,,211
+Iceland,,,212
+IDA & IBRD total,,,213
+IDA blend,,,214
+IDA only,,,215
+IDA total,,,216
+India,,,217
+Indonesia,,,218
+Iran,,,219
+Iran (Islamic Republic of),,,220
+Iraq,,,221
+Ireland,IE,IESE,222
+Ireland,IE,IESW,223
+Ireland,IE,GBNIIENB,224
+Ireland,IE,IEEA,225
+Ireland,IE,IEGBNISH,226
+Ireland,IE,IEWE,227
+Ireland,IE,GBNIIENW,228
+Ireland,,,229
+Isle of Man,,,230
+Israel,,,231
+Italy,IT,ITF,232
+Italy,IT,ITE,233
+Italy,IT,ITC,234
+Italy,IT,ITB,235
+Italy,IT,ITA,236
+Italy,IT,ITD,237
+Italy,,,238
+Jamaica,,,239
+Japan,,,240
+Jordan,,,241
+Kazakhstan,,,242
+Kenya,,,243
+Kiribati,,,244
+Korea,,,245
+Kosovo,,,246
+Kuwait,,,247
+Kyrgyz Republic,,,248
+Kyrgyzstan,,,249
+Land Locked Developing Countries,,,250
+Land Locked Developing Countries (FAO),,,251
+Lao PDR,,,252
+Lao People's Democratic Republic,,,253
+Late-demographic dividend,,,254
+Latin America & Caribbean,,,255
+Latin America & Caribbean (excluding high income),,,256
+Latin America & the Caribbean (IDA & IBRD countries),,,257
+Latvia,LV,LVLUBA,258
+Latvia,LV,LVDUBA,259
+Latvia,LV,LVVUBA,260
+Latvia,LV,LVGUBA,261
+Latvia,,,262
+Least Developed Countries,,,263
+Least Developed Countries (FAO),,,264
+Least developed countries: UN classification,,,265
+Lebanon,,,266
+Lesotho,,,267
+Liberia,,,268
+Libya,,,269
+Liechtenstein,,,270
+Lithuania,LT,LT3400,271
+Lithuania,LT,LT1100,272
+Lithuania,LT,LT2300,273
+Lithuania,LT,LT4500,274
+Lithuania,,,275
+Low & middle income,,,276
+Low income,,,277
+Low Income Food Deficit Countries,,,278
+Low Income Food Deficit Countries (FAO),,,279
+Lower middle income,,,280
+Luxembourg,LU,LU RB_000,281
+Luxembourg,,,282
+Macao SAR,,,283
+Madagascar,,,284
+Malawi,,,285
+Malaysia,,,286
+Maldives,,,287
+Mali,,,288
+Malta,,,289
+Marshall Islands,,,290
+Martinique,,,291
+Mauritania,,,292
+Mauritius,,,293
+Mayotte,,,294
+Melanesia,,,295
+Mexico,,,296
+Micronesia,,,297
+Micronesia (FAO),,,298
+Micronesia (Federated States of),,,299
+Middle Africa,,,300
+Middle Africa (FAO),,,301
+Middle East & North Africa,,,302
+Middle East & North Africa (excluding high income),,,303
+Middle East & North Africa (IDA & IBRD countries),,,304
+Middle income,,,305
+Moldova,,,306
+Monaco,,,307
+Mongolia,,,308
+Montenegro,,,309
+Montserrat,,,310
+Morocco,,,311
+Mozambique,,,312
+Myanmar,,,313
+Namibia,,,314
+Nauru,,,315
+Nepal,,,316
+Net Food Importing Developing Countries,,,317
+Net Food Importing Developing Countries (FAO),,,318
+Netherlands,NL,NLMS,319
+Netherlands,NL,NLRN,320
+Netherlands,,,321
+Netherlands Antilles (former),,,322
+New Caledonia,,,323
+New Zealand,,,324
+Nicaragua,,,325
+Niger,,,326
+Nigeria,,,327
+Niue,,,328
+Norfolk Island,,,329
+North America,,,330
+North Korea,,,331
+North Macedonia,,,332
+Northern Africa,,,333
+Northern Africa (FAO),,,334
+Northern America,,,335
+Northern America (FAO),,,336
+Northern Europe,,,337
+Northern Europe (FAO),,,338
+Northern Mariana Islands,,,339
+Norway,NO,NO5101,340
+Norway,NO,NO5104,341
+Norway,NO,NO5102,342
+Norway,NO,NO5103,343
+Norway,NO,NO1102,344
+Norway,NO,NO1101,345
+Norway,NO,NO5106,346
+Norway,NO,NO5105,347
+Norway,NO,NO1103,348
+Norway,NO,NO1104,349
+Norway,NO,NO1105,350
+Norway,,,351
+Not classified,,,352
+Oceania,,,353
+Oceania (FAO),,,354
+OECD (FAO),,,355
+OECD members,,,356
+Oman,,,357
+Other small states,,,358
+Pacific island small states,,,359
+Pacific Islands Trust Territory,,,360
+Pakistan,,,361
+Palau,,,362
+Palestine,,,363
+Panama,,,364
+Papua New Guinea,,,365
+Paraguay,,,366
+Peru,,,367
+Philippines,,,368
+Pitcairn,,,369
+Poland,PL,PL6700,370
+Poland,PL,PL6000,371
+Poland,PL,PL7000,372
+Poland,PL,PL2000,373
+Poland,PL,PL8000,374
+Poland,PL,PL1000,375
+Poland,PT,PTRH3,376
+Poland,PT,PTRH2,377
+Poland,PT,PTRH6,378
+Poland,PT,PTRH5,379
+Poland,PT,PTRH1,380
+Poland,PT,PTRH4,381
+Poland,PT,PTRH8,382
+Poland,PT,PTRH7,383
+Poland,,,384
+Polynesia,,,385
+Portugal,,,386
+Post-demographic dividend,,,387
+Pre-demographic dividend,,,388
+Puerto Rico,,,389
+Qatar,,,390
+Republic of Korea,,,391
+Republic of Moldova,,,392
+Reunion,,,393
+Romania,RO,RO1000,394
+Romania,,,395
+Russia,,,396
+Russian Federation,,,397
+Rwanda,,,398
+"Saint Helena, Ascension and Tristan da Cunha",,,399
+Saint Kitts and Nevis,,,400
+Saint Lucia,,,401
+Saint Pierre and Miquelon,,,402
+Saint Vincent and the Grenadines,,,403
+Saint-Martin (French part),,,404
+Samoa,,,405
+San Marino,,,406
+Sao Tome and Principe,,,407
+Saudi Arabia,,,408
+Senegal,,,409
+Serbia,,,410
+Serbia and Montenegro,,,411
+Seychelles,,,412
+Sierra Leone,,,413
+Singapore,,,414
+Sint Maarten (Dutch part),,,415
+Slovak Republic,,,416
+Slovakia,SK,SK40000,417
+Slovakia,SK,SK30000,418
+Slovakia,,,419
+Slovenia,SI,SI_RBD_1,420
+Slovenia,SI,SI_RBD_2,421
+Slovenia,,,422
+Small Island Developing States,,,423
+Small Island Developing States (FAO),,,424
+Small states,,,425
+Solomon Islands,,,426
+Somalia,,,427
+South Africa,,,428
+South America,,,429
+South America (FAO),,,430
+South Asia,,,431
+South Asia (IDA & IBRD),,,432
+South Korea,,,433
+South Sudan,,,434
+South-eastern Asia,,,435
+South-eastern Asia (FAO),,,436
+Southern Africa,,,437
+Southern Africa (FAO),,,438
+Southern Asia,,,439
+Southern Asia (FAO),,,440
+Southern Europe,,,441
+Southern Europe (FAO),,,442
+Spain,ES,ES064,443
+Spain,ES,ES050,444
+Spain,ES,ES063,445
+Spain,ES,ES100,446
+Spain,ES,ES080,447
+Spain,ES,ES060,448
+Spain,ES,ES015,449
+Spain,ES,ES040,450
+Spain,ES,ES030,451
+Spain,ES,ES020,452
+Spain,ES,ES091,453
+Spain,ES,ES014,454
+Spain,ES,ES070,455
+Spain,ES,ES016,456
+Spain,,,457
+Sri Lanka,,,458
+St. Kitts and Nevis,,,459
+St. Lucia,,,460
+St. Martin (French part),,,461
+St. Vincent and the Grenadines,,,462
+Sub-Saharan Africa,,,463
+Sub-Saharan Africa (excluding high income),,,464
+Sub-Saharan Africa (IDA & IBRD countries),,,465
+Sudan,,,466
+Sudan (former),,,467
+Suriname,,,468
+Sweden,SE,SE4,469
+Sweden,SE,SE5,470
+Sweden,SE,SE3,471
+Sweden,SE,SENO5101,472
+Sweden,SE,SE2,473
+Sweden,SE,SE1TO,474
+Sweden,SE,SE1,475
+Sweden,,,476
+Switzerland,CH,CH10,477
+Switzerland,CH,CH60,478
+Switzerland,CH,CH50,479
+Switzerland,CH,CH80,480
+Switzerland,,,481
+Syria,,,482
+Syrian Arab Republic,,,483
+Taiwan,,,484
+Tajikistan,,,485
+Tanzania,,,486
+Thailand,,,487
+Timor-Leste,,,488
+Togo,,,489
+Tokelau,,,490
+Tonga,,,491
+Trinidad and Tobago,,,492
+Tunisia,,,493
+Turkey,,,494
+Turkmenistan,,,495
+Turks and Caicos Islands,,,496
+Tuvalu,,,497
+Uganda,,,498
+Ukraine,,,499
+United Arab Emirates,,,500
+United Kingdom,UK,UK05,501
+United Kingdom,UK,UK04,502
+United Kingdom,UK,UK07,503
+United Kingdom,UK,UK06,504
+United Kingdom,UK,UK08,505
+United Kingdom,UK,UK12,506
+United Kingdom,UK,UK09,507
+United Kingdom,UK,UK11,508
+United Kingdom,UK,UK10,509
+United Kingdom,UK,UKGBNINE,510
+United Kingdom,UK,UK01,511
+United Kingdom,UK,UK03,512
+United Kingdom,UK,UKGBNIIENB,513
+United Kingdom,UK,UK02,514
+United Kingdom,UK,UKGBNIIENW,515
+United Kingdom,UK,GBNIIENW,516
+United Kingdom,,,517
+United Kingdom of Great Britain and Northern Ireland,,,518
+United Republic of Tanzania,,,519
+United States,,,520
+United States of America,,,521
+Upper middle income,,,522
+Uruguay,,,523
+USSR,,,524
+Uzbekistan,,,525
+Vanuatu,,,526
+Vatican,,,527
+Venezuela,,,528
+Venezuela (Bolivarian Republic of),,,529
+Viet Nam,,,530
+Vietnam,,,531
+Virgin Islands (U.S.),,,532
+Wake Island,,,533
+Wallis and Futuna Islands,,,534
+West Bank and Gaza,,,535
+Western Africa,,,536
+Western Africa (FAO),,,537
+Western Asia,,,538
+Western Asia (FAO),,,539
+Western Europe,,,540
+Western Europe (FAO),,,541
+Western Sahara,,,542
+World,,,543
+Yemen,,,544
+Yugoslav SFR,,,545
+Yugoslavia,,,546
+Zambia,,,547
+Zimbabwe,,,548
